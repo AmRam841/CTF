@@ -9,7 +9,7 @@ Writeups for the PicoCTF 2022 challenges.
 
 | Challenge           | Points |
 |---------------------|--------|
-| Forbidden Paths      | 200    |
+| Forbidden Paths[https://github.com/AmRam841/CTF/blob/main/SOAP]      | 200    |
 | exaple       | 100    |
 | exaple         | 100    |
 | exaple       | 100    |
